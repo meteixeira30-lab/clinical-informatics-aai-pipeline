@@ -21,6 +21,7 @@ This script (`clinical_aai_pipeline.py`) replaces paper-based clinical notes wit
 2. **Biomedical Telemetry Processing (Python Layer):** Simulates continuous longitudinal biomedical inputs (Heart Rate Variability - HRV) to shift the evaluation from qualitative observation to objective, sensor-driven physiological metrics[cite: 2].
 3. **Biostatistical Validation (SciPy Inference):** Executes a Relational Paired t-test to calculate exact p-values, ensuring that therapeutic outcomes achieve undeniable mathematical significance, bypassing historical ambiguity[cite: 2].
 
+![AAI Healthcare Dashboard](aai_healthcare_dashboard.png)
 ---
 
 ## 🚀 Key Competencies Demonstrated
